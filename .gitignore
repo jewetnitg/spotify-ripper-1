@@ -71,3 +71,9 @@ Storage
 user-cache.bnk
 /local_config/Sync/
 /docker_config/Sync/
+
+# pyinstaller
+dist/
+buid/
+*.spec
+
